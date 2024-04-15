@@ -29,9 +29,33 @@ namespace FruitSellingWebsite.Controllers
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        public IActionResult Error(int statuscode)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            if(statuscode == 404)
+            {
+                return View("NotFound");
+            }
+            else
+            {
+                return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            }
         }
-    }
+
+		[HttpPost]
+		public async Task<IActionResult> Search(string query)
+		{
+			if (!string.IsNullOrEmpty(query))
+			{
+				var searchResults = await _dataContext.Products
+					.Include(p => p.Category)
+					.Include(p => p.Brand)
+					.Where(p => p.Name.Contains(query) || p.Category.Name.Contains(query) || p.Brand.Name.Contains(query))
+					.ToListAsync();
+
+				return View("Index", searchResults);
+			}
+
+			return View("Index");
+		}
+	}
 }

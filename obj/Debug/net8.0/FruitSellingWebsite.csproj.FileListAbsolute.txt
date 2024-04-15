@@ -442,3 +442,10 @@ C:\Users\mynam\source\repos\FruitSellingWebsite\bin\Debug\net8.0\runtimes\win\li
 C:\Users\mynam\source\repos\FruitSellingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\mynam\source\repos\FruitSellingWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\mynam\source\repos\FruitSellingWebsite\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mynam\source\repos\FruitSellingWebsite\obj\Debug\net8.0\FruitSellingWebsite.sourcelink.json
+C:\Users\mynam\source\repos\FruitSellingWebsite\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mynam\source\repos\FruitSellingWebsite\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mynam\source\repos\FruitSellingWebsite\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mynam\source\repos\FruitSellingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mynam\source\repos\FruitSellingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mynam\source\repos\FruitSellingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

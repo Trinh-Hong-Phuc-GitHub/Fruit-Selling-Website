@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\FruitSellingWebsite.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
       "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
@@ -317,8 +321,36 @@
       "PackagePath": "staticwebassets\\media\\products\\1.jpg"
     },
     {
+      "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\media\\products\\1c4f2c1c-58d7-47ae-a49d-fdc97998b225_2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\1c4f2c1c-58d7-47ae-a49d-fdc97998b225_2.jpg"
+    },
+    {
       "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\media\\products\\2.jpg",
       "PackagePath": "staticwebassets\\media\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\media\\products\\24be7ffd-ad9d-45fd-8da3-e16ce46913e0_2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\24be7ffd-ad9d-45fd-8da3-e16ce46913e0_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\media\\products\\2c67c00e-67af-45d1-8af7-7a7c6d424c81_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2c67c00e-67af-45d1-8af7-7a7c6d424c81_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\media\\products\\90d53c00-005b-468e-bb0f-0734f71b60dd_3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\90d53c00-005b-468e-bb0f-0734f71b60dd_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\media\\products\\93036f51-7b97-45ae-b04d-731a25bd2b75_2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\93036f51-7b97-45ae-b04d-731a25bd2b75_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\media\\products\\a0ffbb6c-1fa7-4814-b48c-12943e5d2735_2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\a0ffbb6c-1fa7-4814-b48c-12943e5d2735_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\media\\products\\a6002b55-d17c-4123-a54b-c3adf2ea37ea_3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\a6002b55-d17c-4123-a54b-c3adf2ea37ea_3.jpg"
     },
     {
       "Id": "C:\\Users\\mynam\\source\\repos\\FruitSellingWebsite\\wwwroot\\media\\products\\gallery1.jpg",

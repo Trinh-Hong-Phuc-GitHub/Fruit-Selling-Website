@@ -51,11 +51,9 @@
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
-    <script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
     <script>
-        CKEDITOR.replace('Description', {
-            autoParagraph: false, // Tắt chế độ tự động chèn đoạn văn bản
-            enterMode: CKEDITOR.ENTER_BR // Sử dụng thẻ <br> cho chế độ nhập mới dòng
-        });
+        $("#ImageUpload").change(function () {
+            readURL(this);
+        })
     </script>
 }
